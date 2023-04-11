@@ -1,5 +1,5 @@
 # 👋 Hello! My name is Dauren)
-😎 I’m currently working on my IT projects<br>📚 I'm teaching front-end dev at FrontendBlok<br>🎸 Play electric guitar<br>🎥 Create videos about web development
+😎 I’m currently working on my IT projects<br>📚 I'm learning front-end course at "Knew IT school"<br>🎸 Play Tennis and Football<br>🎥 Movie Actor
 
 
 ## 🌐 Socials:
