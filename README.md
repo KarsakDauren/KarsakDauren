@@ -1,4 +1,4 @@
-# 👋 Hello!
+# 👋 Hello! My name is Dauren)
 😎 I’m currently working on my IT projects<br>📚 I'm teaching front-end dev at FrontendBlok<br>🎸 Play electric guitar<br>🎥 Create videos about web development
 
 
