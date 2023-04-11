@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Dauren) Frontend Dev 🔥 
+# 👋 Hello! My name is Dauren) I'm Frontend Dev 🔥 
 😎 I’m currently working on my IT projects<br>📚 I'm learning front-end course at "Knew IT school"<br>🎸 Play Tennis and Football<br>🎥 Movie Actor
 
 
