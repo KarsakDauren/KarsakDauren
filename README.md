@@ -1,7 +1,8 @@
 # 👋 Hello! My name is Dauren) I'm Frontend Dev 🔥 
 😎 I’m currently working on my IT projects<br>📚 I'm learning front-end course at "Knew IT school"<br>![sports](https://user-images.githubusercontent.com/117919616/231398116-527c2301-2915-4295-9e47-21d6c4565641.png)
  Play Tennis and Football<br>🎥 Movie Actor<br>
-![school](https://user-images.githubusercontent.com/117919616/231393402-2ad660b9-9021-4c7c-90da-00ac92e61a00.png)  KBTU graduate<br>![soldier](https://user-images.githubusercontent.com/117919616/231397430-6eb149d9-26d3-4106-8c97-9413c6a877fe.png)  Army soldier
+![school](https://user-images.githubusercontent.com/117919616/231393402-2ad660b9-9021-4c7c-90da-00ac92e61a00.png)  KBTU graduate<br>![soldier](https://user-images.githubusercontent.com/117919616/231397430-6eb149d9-26d3-4106-8c97-9413c6a877fe.png)  Army soldier<br>![investment](https://user-images.githubusercontent.com/117919616/231412289-907447d2-4d75-4545-8af1-315acf3957a2.png) Trader
+
 
 
 
