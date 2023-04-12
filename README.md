@@ -1,6 +1,7 @@
 # 👋 Hello! My name is Dauren) I'm Frontend Dev 🔥 
 😎 I’m currently working on my IT projects<br>📚 I'm learning front-end course at "Knew IT school"<br>🎸 Play Tennis and Football<br>🎥 Movie Actor<br>
-![school](https://user-images.githubusercontent.com/117919616/231393402-2ad660b9-9021-4c7c-90da-00ac92e61a00.png) KBTU graduate
+![school](https://user-images.githubusercontent.com/117919616/231393402-2ad660b9-9021-4c7c-90da-00ac92e61a00.png) KBTU graduate<br>![soldier](https://user-images.githubusercontent.com/117919616/231397430-6eb149d9-26d3-4106-8c97-9413c6a877fe.png) Army soldier
+
 
 
 ## 🌐 Socials:
